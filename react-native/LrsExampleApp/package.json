@@ -20,8 +20,7 @@
     ],
     "license": "Apache-2.0",
     "support": {
-        "email": "developer@glomopay.com",
-        "url": "https://github.com/glomopay/glomopay-rn-sdk/issues"
+        "email": "developer@glomopay.com"
     },
     "dependencies": {
         "@glomopay/react-native-sdk": "^1.3.3",
