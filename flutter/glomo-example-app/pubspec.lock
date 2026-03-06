@@ -211,9 +211,10 @@ packages:
   glomopay_sdk:
     dependency: "direct main"
     description:
-      path: "../../../glomopay-flutter-sdk"
-      relative: true
-    source: path
+      name: glomopay_sdk
+      sha256: bb1b6449b6ae056f2b3addde6fbf5521ef08a510cdd2f890f78325c1ed25106c
+      url: "https://pub.dev"
+    source: hosted
     version: "0.0.1"
   hooks:
     dependency: transitive
@@ -224,7 +225,7 @@ packages:
     source: hosted
     version: "1.0.0"
   http:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: http
       sha256: "87721a4a50b19c7f1d49001e51409bddc46303966ce89a65af4f4e6004896412"
